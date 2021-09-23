@@ -33,8 +33,8 @@ namespace pruebapp1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form4 Prueba = new Form4();
-            Prueba.Show();
+            Form4 Prueba1 = new Form4();
+            Prueba1.Show();
         }
     }
 }
